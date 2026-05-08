@@ -27,6 +27,7 @@ Visualize geographic business density and engagement patterns effectively
 ### Dataset
 
 The project uses the Yelp business dataset containing:
+https://business.yelp.com/data/resources/open-dataset/
 
 150,000+ businesses
 600+ cities
